@@ -1,0 +1,2 @@
+# Placeholder only. Add authorized seller records supplied by your ad partners
+# before using this file for app-ads.txt verification.
